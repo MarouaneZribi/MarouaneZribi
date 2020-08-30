@@ -11,7 +11,6 @@
 </a>
                                <br />
                                <br />  
-                               <br />
 I'm Marouane,A 22 Y/O Tunisian Software Engineer,CyberSecurity Passionate,Privacy Advocate and above all a student.<br />
 - 🔭 I’m currently working on a Blockchain-Based Academic Transcript Application/IBM Cloud Developer Certification/ AWS Cloud Practioner Certification.<br />
 - 🌱 I’m currently learning Python,JS,KaliLinux,Parrot OS,...<br />
