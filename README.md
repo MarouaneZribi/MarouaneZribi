@@ -1,13 +1,24 @@
 ### 01101000 01100101 01101100 01101100 01101111 👋
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: Email&Social Media
-- 😄 Pronouns: 
+<a target="_blank" href="https://twitter.com/MarouaneZribi">
+  <img align="left" alt="KMx404 | Twitter" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
+</a>
+<a target="_blank" href="https://www.facebook.com/marouane.zribi.5">
+  <img align="left" alt=KMx404's Facebook" width="21px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" />
+</a> 
+<a target="_blank" href="https://discord.gg/sg5ZFVJ">
+  <img align="left" alt="Anurag's Discord" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/discord-round.svg" />
+</a>
+                               <br />
+                               <br />  
+                               <br />
+I'm Marouane,A 22 Y/O Software Engineer,CyberSecurity Passionate,Privacy Advocate and above all a student.
+- 🔭 I’m currently working on a Blockchain-Based Academic Transcript Application/IBM Cloud Developer Certification/ AWS Cloud Practioner Certification.
+- 🌱 I’m currently learning Python,JS,KaliLinux,Parrot OS,...
+- 👯 I’m looking to collaborate on any project involving AI and/or CyberSecurity related.
+- 📫 How to reach me: [Email](ahmedmarouanez@gmail.com) 
 - ⚡ Fun fact: At some point in time, I will be working for an Intelligence Agency.
+Don't mind these stats, they'll improve in no time. 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=DoomScripty&show_icons=true&theme=radical)
 
 <!--
