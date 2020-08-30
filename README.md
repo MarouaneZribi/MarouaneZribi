@@ -12,13 +12,14 @@
                                <br />
                                <br />  
                                <br />
-I'm Marouane,A 22 Y/O Software Engineer,CyberSecurity Passionate,Privacy Advocate and above all a student.
-- 🔭 I’m currently working on a Blockchain-Based Academic Transcript Application/IBM Cloud Developer Certification/ AWS Cloud Practioner Certification.
-- 🌱 I’m currently learning Python,JS,KaliLinux,Parrot OS,...
-- 👯 I’m looking to collaborate on any project involving AI and/or CyberSecurity related.
-- 📫 How to reach me: [Email](ahmedmarouanez@gmail.com) 
-- ⚡ Fun fact: At some point in time, I will be working for an Intelligence Agency.
-Don't mind these stats, they'll improve in no time. 
+I'm Marouane,A 22 Y/O Tunisian Software Engineer,CyberSecurity Passionate,Privacy Advocate and above all a student.<br />
+- 🔭 I’m currently working on a Blockchain-Based Academic Transcript Application/IBM Cloud Developer Certification/ AWS Cloud Practioner Certification.<br />
+- 🌱 I’m currently learning Python,JS,KaliLinux,Parrot OS,...<br />
+- 👯 I’m looking to collaborate on any project involving AI and/or CyberSecurity related.<br />
+- 📫 How to reach me: [Email](ahmedmarouanez@gmail.com) <br />
+- ⚡ Fun fact: At some point in time, I will be working for an Intelligence Agency.<br />
+Don't mind these stats, they'll improve in no time. <br />
+
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=DoomScripty&show_icons=true&theme=radical)
 
 <!--
