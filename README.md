@@ -16,7 +16,6 @@ I'm Marouane,A 22 Y/O Tunisian Software Engineer,CyberSecurity Passionate,Privac
 - 🔭 I’m currently working on a Blockchain-Based Academic Transcript Application/IBM Cloud Developer Certification/ AWS Cloud Practioner Certification.<br />
 - 🌱 I’m currently learning Python,JS,KaliLinux,Parrot OS,...<br />
 - 👯 I’m looking to collaborate on any project involving AI and/or CyberSecurity related.<br />
-- 📫 How to reach me: [Email](ahmedmarouanez@gmail.com) & [Twitter](https://twitter.com/MarouaneZribi) <br />
 - ⚡ Fun fact: At some point in time, I will be working for an Intelligence Agency.<br />
 Don't mind these stats, they'll improve in no time. <br />
 
