@@ -16,7 +16,7 @@ I'm Marouane,A 22 Y/O Tunisian Software Engineer,CyberSecurity Passionate,Privac
 - 🌱 I’m currently learning Python,JS,KaliLinux,Parrot OS,...<br />
 - 👯 I’m looking to collaborate on any project involving AI and/or CyberSecurity related.<br />
 - ⚡ Fun fact: At some point in time, I will be working for an Intelligence Agency.<br />
-Don't mind these stats, they'll improve in no time. <br />
+<b>Don't mind these stats, they'll improve in no time. <br /> </b>
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=DoomScripty&show_icons=true&theme=radical)
 
