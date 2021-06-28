@@ -18,10 +18,10 @@ I'm Marouane,A 22 Y/O Tunisian Software Engineer,CyberSecurity Passionate,Privac
 - ⚡ Fun fact: At some point in time, I will be working for an Intelligence Agency.<br />
 <b>Don't mind these stats, they'll improve in no time. <br /> </b>
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=DoomScripty&show_icons=true&theme=radical)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=MarouaneZribi&show_icons=true&theme=radical)
 
 <!--
-**DoomScripty/DoomScripty** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**MarouaneZribi/MarouaneZribi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 
 -->
