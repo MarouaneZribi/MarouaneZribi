@@ -12,7 +12,7 @@
                                <br />
                                <br />  
 I'm Marouane,A 24 Y/O Tunisian Software Engineer,CyberSecurity Passionate,Privacy Advocate and above all a student.<br />
-- 🔭 I’m currently working on a OSINT Task automation platform at EY  Certification.<br />
+- 🔭 I’m currently working on a OSINT Task automation platform at EY.<br />
 - 🌱 I’m currently learning Flask,Python,OSINT,...<br />
 - 👯 I’m looking to collaborate on any project involving AI and/or CyberSecurity related.<br />
 - ⚡ Fun fact: At some point in time, I will be working for an Intelligence Agency.<br />
