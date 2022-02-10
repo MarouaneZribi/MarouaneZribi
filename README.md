@@ -11,9 +11,9 @@
 </a>
                                <br />
                                <br />  
-I'm Marouane,A 23 Y/O Tunisian Software Engineer,CyberSecurity Passionate,Privacy Advocate and above all a student.<br />
-- 🔭 I’m currently working on a Blockchain-Based Academic Transcript Application/IBM Cloud Developer Certification/ AWS Cloud Practitioner  Certification.<br />
-- 🌱 I’m currently learning Python,JS,KaliLinux,Parrot OS,...<br />
+I'm Marouane,A 24 Y/O Tunisian Software Engineer,CyberSecurity Passionate,Privacy Advocate and above all a student.<br />
+- 🔭 I’m currently working on a OSINT Task automation platform at EY  Certification.<br />
+- 🌱 I’m currently learning Flask,Python,OSINT,...<br />
 - 👯 I’m looking to collaborate on any project involving AI and/or CyberSecurity related.<br />
 - ⚡ Fun fact: At some point in time, I will be working for an Intelligence Agency.<br />
 <b>Don't mind these stats, they'll improve in no time. <br /> </b>
