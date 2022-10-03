@@ -11,10 +11,9 @@
 </a>
                                <br />
                                <br />  
-I'm Marouane,A 24 Y/O Tunisian Software Engineer,CyberSecurity Passionate,Privacy Advocate and above all a student.<br />
-- 🔭 I’m currently working on a OSINT Task automation platform at EY.<br />
-- 🌱 I’m currently learning Flask,Python,Pentesting,...<br />
-- 👯 I’m looking to collaborate on any project CyberSecurity related.<br />
+I'm Marouane,A 24 Y/O Tunisian Software Engineer,CyberSecurity Consultant& Penetration Tester .<br />
+- 🔭 I’m currently working on as a Cybersecurity Consultant at EY.<br />
+- 🌱 I’m currently learning RedTeaming&Offensive Security,...<br />
 - ⚡ Fun fact: At some point in time, I will be working for an Intelligence Agency.<br />
 <b>Don't mind these stats, they'll improve in no time. <br /> </b>
 
