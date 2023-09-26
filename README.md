@@ -6,9 +6,8 @@
 <a target="_blank" href="https://www.facebook.com/marouane.zribi.5">
   <img align="left" alt=KMx404's Facebook" width="21px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" />
 </a> 
-<a target="_blank" href="https://marouanezribi.github.io">
-<img src="data:image/svg+xml;base64,PHN2ZyBjbGlwLXJ1bGU9ImV2ZW5vZGQiIGZpbGwtcnVsZT0iZXZlbm9kZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCIgc3Ryb2tlLW1pdGVybGltaXQ9IjIiIHZpZXdCb3g9IjAgMCAyNCAyNCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48cGF0aCBkPSJtMjEgNGMwLS40NzgtLjM3OS0xLTEtMWgtMTZjLS42MiAwLTEgLjUxOS0xIDF2MTZjMCAuNjIxLjUyIDEgMSAxaDE2Yy40NzggMCAxLS4zNzkgMS0xem0tMS41IDUuNTA1djkuOTk1aC0xNXYtOS45OTV6bTAtMS41aC0xNXYtMy41MDVoMTV6bS0yLjMtMi41MjdjLjQ0MiAwIC44LjM1OS44LjggMCAuNDQyLS4zNTguOC0uOC44cy0uOC0uMzU4LS44LS44YzAtLjQ0MS4zNTgtLjguOC0uOHptLTEuNjUuNzc3YzAtLjM5Ny0uMzUyLS43NS0uNzUtLjc1LTEuNjk1IDAtNi4zNTUgMC04LjA1IDAtLjM5OSAwLS43NS4zNTMtLjc1Ljc1cy4zNTEuNzUuNzUuNzVoOC4wNWMuMzk4IDAgLjc1LS4zNTMuNzUtLjc1eiIgZmlsbC1ydWxlPSJub256ZXJvIi8+PC9zdmc+">
-</a>
+				<a target="_blank" href="https://MarouaneZribi.github.io/"><span class="ion"><ion-icon name="globe-outline"></ion-icon></span></a>
+
 
 
       
