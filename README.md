@@ -6,10 +6,11 @@
 <a target="_blank" href="https://www.facebook.com/marouane.zribi.5">
   <img align="left" alt=KMx404's Facebook" width="21px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" />
 </a> 
-<a target="_blank" href="https://discord.gg/sg5ZFVJ">
+<a target="_blank" href="https://marouanezribi.github.io">
   <img align="left" alt="Anurag's Discord" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/discord-round.svg" />
 </a>
-<i class="fa-solid fa-globe fa-beat"></i>                               <br />
+<a target="_blank" href="https://discord.gg/sg5ZFVJ">
+<i class="fa-solid fa-globe fa-beat"></i>  </a>                             <br />
                                <br />  
 I'm Marouane,A 25 Y/O Tunisian Software Engineer,CyberSecurity Consultant& Penetration Tester .<br />
 - 🔭 I’m currently working on as a Cybersecurity Consultant at EY.<br />
