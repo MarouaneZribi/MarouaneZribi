@@ -7,8 +7,7 @@
   <img align="left" alt=KMx404's Facebook" width="21px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" />
 </a> 
 <a target="_blank" href="https://marouanezribi.github.io">
-  <i class="fa-solid fa-globe"></i>
-</a>
+</a>
 <a target="_blank" href="https://discord.gg/sg5ZFVJ">
   <img align="left" alt="Anurag's Discord" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/discord-round.svg" />
   </a> 
