@@ -9,7 +9,7 @@
 <a target="_blank" href="https://discord.gg/sg5ZFVJ">
   <img align="left" alt="Anurag's Discord" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/discord-round.svg" />
 </a>
-                               <br />
+<i class="fa-solid fa-globe fa-beat"></i>                               <br />
                                <br />  
 I'm Marouane,A 25 Y/O Tunisian Software Engineer,CyberSecurity Consultant& Penetration Tester .<br />
 - 🔭 I’m currently working on as a Cybersecurity Consultant at EY.<br />
