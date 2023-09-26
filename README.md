@@ -7,7 +7,7 @@
   <img align="left" alt=KMx404's Facebook" width="21px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" />
 </a> 
 <a target="_blank" href="https://marouanezribi.github.io">
-<svg clip-rule="evenodd" fill-rule="evenodd" stroke-linejoin="round" stroke-miterlimit="2" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path d="m21 4c0-.478-.379-1-1-1h-16c-.62 0-1 .519-1 1v16c0 .621.52 1 1 1h16c.478 0 1-.379 1-1zm-1.5 5.505v9.995h-15v-9.995zm0-1.5h-15v-3.505h15zm-2.3-2.527c.442 0 .8.359.8.8 0 .442-.358.8-.8.8s-.8-.358-.8-.8c0-.441.358-.8.8-.8zm-1.65.777c0-.397-.352-.75-.75-.75-1.695 0-6.355 0-8.05 0-.399 0-.75.353-.75.75s.351.75.75.75h8.05c.398 0 .75-.353.75-.75z" fill-rule="nonzero"/></svg>
+<img src="data:image/svg+xml;base64,PHN2ZyBjbGlwLXJ1bGU9ImV2ZW5vZGQiIGZpbGwtcnVsZT0iZXZlbm9kZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCIgc3Ryb2tlLW1pdGVybGltaXQ9IjIiIHZpZXdCb3g9IjAgMCAyNCAyNCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48cGF0aCBkPSJtMjEgNGMwLS40NzgtLjM3OS0xLTEtMWgtMTZjLS42MiAwLTEgLjUxOS0xIDF2MTZjMCAuNjIxLjUyIDEgMSAxaDE2Yy40NzggMCAxLS4zNzkgMS0xem0tMS41IDUuNTA1djkuOTk1aC0xNXYtOS45OTV6bTAtMS41aC0xNXYtMy41MDVoMTV6bS0yLjMtMi41MjdjLjQ0MiAwIC44LjM1OS44LjggMCAuNDQyLS4zNTguOC0uOC44cy0uOC0uMzU4LS44LS44YzAtLjQ0MS4zNTgtLjguOC0uOHptLTEuNjUuNzc3YzAtLjM5Ny0uMzUyLS43NS0uNzUtLjc1LTEuNjk1IDAtNi4zNTUgMC04LjA1IDAtLjM5OSAwLS43NS4zNTMtLjc1Ljc1cy4zNTEuNzUuNzUuNzVoOC4wNWMuMzk4IDAgLjc1LS4zNTMuNzUtLjc1eiIgZmlsbC1ydWxlPSJub256ZXJvIi8+PC9zdmc+">
 </a>
 
 
