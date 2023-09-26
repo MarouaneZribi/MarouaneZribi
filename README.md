@@ -6,7 +6,8 @@
 <a target="_blank" href="https://www.facebook.com/marouane.zribi.5">
   <img align="left" alt=KMx404's Facebook" width="21px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" />
 </a> 
-				<a target="_blank" href="https://MarouaneZribi.github.io/"><span class="ion"><ion-icon name="globe-outline"></ion-icon></span></a>
+<a target="_blank" href="https://MarouaneZribi.github.io/">  <img align="left" alt=KMx404's Facebook" width="21px" src="https://raw.githubusercontent.com/MarouaneZribi/MarouaneZribi/master/iconmonstr-browser-lined.svg" />
+</a>
 
 
 
