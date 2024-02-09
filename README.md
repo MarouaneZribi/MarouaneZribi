@@ -14,11 +14,8 @@
       
 <br />
                                <br />  
-I'm Marouane,A 25 Y/O Tunisian Software Engineer,CyberSecurity Consultant& Penetration Tester .<br />
+I'm Marouane,A 26 Y/O Tunisian Software Engineer,CyberSecurity Consultant& Penetration Tester .<br />
 - 🔭 I’m currently working on as a Cybersecurity Consultant at EY.<br />
-- 🌱 I’m currently learning RedTeaming&Offensive Security,...<br />
-- ⚡ Fun fact: At some point in time, I will be working for an Intelligence Agency.<br />
-<b>Don't mind these stats, they'll improve in no time. <br /> </b>
 
 ![Anurag's github stats](https://github-readme-stats-sigma-five.vercel.app/api?username=MarouaneZribi&show_icons=true&theme=radical)
 <h3 align="left">Languages and Tools:</h3>
